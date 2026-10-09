@@ -4,6 +4,7 @@
     --border: #E84A5F;
     --text: #FECEA8;
     --muted: #9aa4b2;
+    --project: #984063;
     --accent: #99B898;
     --accent-hover: #5B6E5B;
     --max-width: 1050px;
@@ -218,7 +219,7 @@
     flex-direction: column;
     min-height: 240px;
     padding: 26px;
-    background: var(--surface);
+    background: var(--project);
     border: 1px solid var(--border);
     border-radius: 10px;
     transition: 0.2s ease;
